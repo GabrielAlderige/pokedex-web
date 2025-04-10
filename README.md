@@ -27,7 +27,7 @@ Você pode acessar a Pokédex online clicando no link abaixo:
 
 ## 📁 Estrutura de Arquivos
 
-pokedex/ ├ index.html ├ style.css ├ script.js ├ preview.gif ├ README.md
+pokedex/ ├ index.html ├ style.css ├ script.js ├ README.md
 
 
 ## 📌 Observações
