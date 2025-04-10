@@ -8,7 +8,7 @@ Uma Pokédex interativa desenvolvida com HTML, CSS e JavaScript puro, utilizando
 
 - 🔍 Busca de Pokémon por nome ou número.
 - ⬅️➡️ Navegação entre Pokémon com botões de "Anterior" e "Próximo".
-- 📷 Exibição da imagem animada do Pokémon (sprites da geração Black & White).
+- 📷 Exibição da imagem animada do Pokémon
 - 📋 Exibição do nome e número do Pokémon.
 
 ## 🧪 Tecnologias Utilizadas
